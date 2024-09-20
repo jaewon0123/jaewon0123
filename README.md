@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jaewon0123 (김재원)
+- 👋 Hi, I’m @jaewon0123
 - 👀 I’m interested in web development, especially using React.
 - 🌱 I’m currently learning advanced techniques in React, Spring Boot, and Java.
 - 💞️ I’m looking to collaborate on exciting web development projects, especially in Frontend and Backend integration.
